@@ -1,4 +1,4 @@
-module ronin-axie-alert-demo
+module github.com/JdiJack/ronin-axie-alert-demo
 
 go 1.16
 
