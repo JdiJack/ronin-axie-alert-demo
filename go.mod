@@ -1,4 +1,4 @@
-module axie-sales-sub
+module ronin-axie-alert-demo
 
 go 1.16
 
